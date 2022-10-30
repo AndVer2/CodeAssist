@@ -67,6 +67,7 @@
     <string name="menu_run">Run</string>
     <string name="menu_refresh">Refresh module</string>
     <string name="menu_library_manager">Library manager</string>
+    <string name="menu_quick_code">Quick Code</string>
     <string name="menu_format">Format</string>
     <string name="menu_settings">Settings</string>
 
